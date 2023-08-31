@@ -4,7 +4,7 @@ Ola!, Eu sou Luiz Roberto👋
 - No momento estou cursando Ciências da Computação💻📚
 <div align="center">
   <a href="https://github.com/LuizRobert33"> 
- <img height="180rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? username=1manuelc&show_icons=true&rank_icon=github&hide_border=true&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRobert33&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 

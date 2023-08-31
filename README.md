@@ -3,8 +3,8 @@ Ola!, Eu sou Luiz Roberto👋
 - Sou estudante de Programação👨‍💻
 - No momento estou cursando Ciências da Computação💻📚
 <div align="center">
-  <a href="https://github.com/LuizRobert33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizRobert33&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/LuizRobert33"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=LuizRobert33&show_icons=true&rank_icon=github&hide_border=true&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRobert33&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 

@@ -5,8 +5,8 @@ Ola!, Eu sou Luiz Roberto👋
 <div align="center">
  <main>
   <div class="stats" align="center">
-<img height="180rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuizRobert33&show_icons=true&rank_icon=github&hide_border=true&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-<img height="180rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuizRobert33&hide_border=true&layout=compact&langs_count=6&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuizRobert33&show_icons=true&rank_icon=github&hide_border=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuizRobert33&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 
   </div>
   <div class="skills" align="center">
